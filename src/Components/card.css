@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Open+Sans&display=swap');
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+.mainContainer{
+    margin: 20px;
+    max-width: 360px;
+    width: 330px;
+    height: 408px;
+    border: 1px solid #EAEDED;
+}
+.middleSection{
+    margin-top: 10px;
+    max-width: 360px;
+    height: 135px;
+    
+}
+.bottomSection{
+    max-width: 360px;
+    height: 50px;
+    background-color: #EAEDED;
+}
+.imageContainer{
+    background-color: #EAEDED;
+    text-align: center;
+}
+.design{
+    margin-left: 20px;
+    font-size: 110%;
+}
+.imageView{
+    width: 200px;
+}
+.phoneImage{
+    width: 20px;
+    padding-top: 0px;
+}
+.textAlign{
+    margin-left: 10px;
+    font-size: 95%;
+}
+.alginIcon{
+    display: flex;
+    margin-bottom: 6px;
+}
+.mainEntry{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction:row;
+}
+.like:hover{
+    background-color: orange;
+}
+.designAlign{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-right: 40px;
+}
