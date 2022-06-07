@@ -10,7 +10,7 @@ export default function card(props){
             <div>
                 <div className='mainContainer'>
                     <div className='imageContainer'>
-                        <img className='imageView' src="https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"></img>
+                        <img className='imageView' src={props.image}></img>
                     </div>
                     <div className='middleSection'>
                         <div>

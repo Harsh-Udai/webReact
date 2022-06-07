@@ -5,21 +5,19 @@ import Data from '../Data/primary.json';
 
 export default function Entry(){
 
-    // console.log(Data);
-    const [data,setData] = useState([]);
-
-    useEffect(()=>{
-        Data.map((el)=>{
-            setData(el);
-        })
-    })
-
-    
+    console.log(Data);    
     
     return(
         <div className="mainEntry">
             
-            <Card />
+            {
+                Data.map((el,key)=>{
+                    console.log(el);
+                    return(
+                        <Card key={key} image={el.image} name={el.name} email={el.email} phone={el.phone} web={el.web} />
+                    )
+                })
+            }
             
             
         </div>

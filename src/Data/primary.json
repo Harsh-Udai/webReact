@@ -1,50 +1,65 @@
-[{
-    "1":{
+[
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "2":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "3":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "4":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "5":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "6":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "7":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     },
-    "8":{
+    {
         "name":"Leanne Graham",
         "email":"Sincere@april.biz",
         "phone":"1-770-736-8031 x56442",
-        "web":"hildegard.org"
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
+    },
+    {
+        "name":"Leanne Graham",
+        "email":"Sincere@april.biz",
+        "phone":"1-770-736-8031 x56442",
+        "web":"hildegard.org",
+        "image":"https://avatars.dicebear.com/v2/avataaars/Antonette.svg?options[mood][]=happy"
     }
-  }]
+]
